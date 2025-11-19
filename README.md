@@ -1,4 +1,4 @@
-# AdvancedwebdesignStudentpodsbookingsystem
+# Studentpodsbookingsystem
 A booking system for student pods 
 
 
